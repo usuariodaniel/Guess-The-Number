@@ -24,3 +24,8 @@ This repository contains a simple number guessing game implemented in Java. The 
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you find any bugs or have suggestions for improvements.
 
+## Contact
+
+Daniel Queiroz - [Email](danieeldesoares@hotmail.com)
+
+Project Link: [https://github.com/usuariodaniel/simple-javascript-calculator](https://github.com/usuariodaniel/Guess-The-Number)
